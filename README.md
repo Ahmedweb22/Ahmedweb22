@@ -16,15 +16,6 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 
 ---
 
-### 🏥 [Hospital Management System](https://github.com/YOUR_USERNAME/Hospital-Management-System)
-A full **MVC application** implementing OOP principles.  
-**Features:**
-- Manage doctors, patients, and appointments
-- CRUD operations with EF Core
-- Clean project structure for learning and scalability
-
----
-
 ## 🛠️ Skills
 - **Languages & Frameworks:** C#, ASP.NET Core (MVC, Web API), EF Core  
 - **Databases:** SQL Server  
