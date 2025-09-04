@@ -49,7 +49,7 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Porfessional Skills
 - **Languages & Frameworks:** C#, ASP.NET Core (MVC, Web API), EF Core  
 - **Databases:** SQL Server  
 - **Tools:** Git, GitHub, REST APIs  
