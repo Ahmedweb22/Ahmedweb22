@@ -66,7 +66,11 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedweb22&theme=tokyonight)  
 
----
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedweb22&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedweb22&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedweb22&theme=radical)
 
 ---
 
