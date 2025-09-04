@@ -39,7 +39,7 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-allam-6b6989273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ahmedweb22)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ahmedwebdevelop2@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](ahmedwebdevelop2@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/201095180053)  
 
 ---
