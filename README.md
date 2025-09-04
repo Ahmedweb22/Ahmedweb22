@@ -6,7 +6,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Store - ASP.NET Core Web API](https://github.com/Ahmedweb22/E-Store)
+### 🛒 [E-Store - ASP.NET Core Web API](https://github.com/YOUR_USERNAME/E-Store)
 A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.  
 **Features:**
 - User authentication & authorization (JWT)
@@ -14,6 +14,14 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 - Order management (create & track orders)
 - 💳 **Payment integration** (new update)
 
+---
+
+### 🏥 [Hospital Management System](https://github.com/YOUR_USERNAME/Hospital-Management-System)
+A full **MVC application** implementing OOP principles.  
+**Features:**
+- Manage doctors, patients, and appointments
+- CRUD operations with EF Core
+- Clean project structure for learning and scalability
 
 ---
 
@@ -24,9 +32,13 @@ A complete **E-Commerce backend API** built with ASP.NET Core & EF Core.
 
 ---
 
-## 📊 Currently Learning
-- ASP.NET Core MVC in depth  
-- Advanced SQL Server  
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedweb22&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedweb22&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedweb22&theme=tokyonight)  
 
 ---
 
